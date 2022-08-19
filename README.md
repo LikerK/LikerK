@@ -1,14 +1,22 @@
-<div id="header" align="center">
-  <img src="https://i.ibb.co/tJqCVKk/github.gif" width="100"/>
-  <h4> Hi there 👋 </h4>
-</div>
+<h4> Hi there 👋 </h4>
 
 ---
 
 #### :woman_technologist: About Me :
 
-My name is Kirill <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br> 
-I just finiched from Hexlet Online Programming School and am looking for career opportunities as junior Python developer.
+display: flex;
+justify-content: space-between;
+
+
+<p style="margin-bottom: 100px">
+    My name is Kirill <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br> 
+    I'm finiched from Hexlet Online Programming School and  looking for career opportunities as junior Python developer.
+</p> 
+<img src="https://i.ibb.co/tJqCVKk/github.gif" width="100"/> 
+
+
+
+
 
 - Hexlet Profile: https://ru.hexlet.io/my
 - Hexlet CV: https://cv.hexlet.io/resumes/1266
