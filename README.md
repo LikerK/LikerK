@@ -1,16 +1,26 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://i.ibb.co/tJqCVKk/github.gif" width="100"/>
+  <h4> Hi there 👋 </h4>
+</div>
 
-<!--
-**LikerK/LikerK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+#### :woman_technologist: About Me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Kirill <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br> 
+I just finiched from Hexlet Online Programming School and am looking for career opportunities as junior Python developer.
+
+- Hexlet Profile: https://ru.hexlet.io/my
+- Hexlet CV: https://cv.hexlet.io/resumes/1266
+- Stack: Python / Django / HTML(basic knowledge) / CSS(basic knowledge)
+
+---
+
+#### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LikerK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+##### Codewars :
+
+[![Top Langs](https://www.codewars.com/users/LikerK/badges/large)](https://www.codewars.com/users/LikerK)
+
