@@ -11,7 +11,10 @@
 
 - Hexlet Profile: https://ru.hexlet.io/my
 - Hexlet CV: https://cv.hexlet.io/resumes/1266
-- [![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue)]() / Django / HTML(basic knowledge) / CSS(basic knowledge)
+
+[![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue)]() 
+[![HTML](https://img.shields.io/badge/HTML-white?logo=html5&logoColor=orange)]()
+[![Django](https://img.shields.io/badge/Django-white?logo=django&logoColor=green)]()
 
 <h4> Contact Me </h4>
 
