@@ -9,7 +9,7 @@
 
 
 
-- Hexlet Profile: https://ru.hexlet.io/my
+- Hexlet Profile: [https://ru.hexlet.io/my](https://ru.hexlet.io/u/Liker)
 - Hexlet CV: https://cv.hexlet.io/resumes/1266
 <img src="https://i.ibb.co/tJqCVKk/github.gif" width="100"/> 
 
