@@ -12,10 +12,15 @@
 - Hexlet Profile: [https://ru.hexlet.io/my](https://ru.hexlet.io/u/Liker)
 - Hexlet CV: https://cv.hexlet.io/resumes/1266
 
-![JavaScripts](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Python](https://img.shields.io/badge/-Python-4169E1?style=for-the-badge&labelColor=4169E1&logo=python&logoColor=black)
-![HTML](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
-![Django](https://img.shields.io/badge/-Django-006400?style=for-the-badge&labelColor=006400&logo=django&logoColor=white)  
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>
+</div>  
 
 ---
 [![Top Langs](https://www.codewars.com/users/LikerK/badges/micro)](https://www.codewars.com/users/LikerK)
