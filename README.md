@@ -5,7 +5,7 @@
 </p> 
 
 
-- Hexlet Profile: [https://ru.hexlet.io/my](https://ru.hexlet.io/u/Liker)
+- Hexlet Profile: [https://ru.hexlet.io/u/liker](https://ru.hexlet.io/u/Liker)
 - Hexlet CV: https://cv.hexlet.io/resumes/1266
 
 <h2>Skills</h2>
