@@ -24,22 +24,12 @@
 
 [![Top Langs](https://www.codewars.com/users/LikerK/badges/micro)](https://www.codewars.com/users/LikerK)
 
-<h2>Stats</h2>
-<table style="border-collapse: collapse; border: none;">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=LikerK&theme=tokyonight"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LikerK&layout=compact&theme=tokyonight"/></td>
-  </tr>
-</table>
-
 
 <h3> Contact Me </h3>
 
 
-:mailbox: Email: nagorniykirill@gmail.com <br>
-:calling: Telegram: [@LikerK](https://t.me/LikerK)
+Email: nagorniykirill@gmail.com <br>
+Telegram: [@LikerK](https://t.me/LikerK)
 
 ---
 
