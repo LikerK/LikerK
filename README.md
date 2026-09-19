@@ -1,12 +1,10 @@
 <h2> Hi there 👋 </h2>
 <p style="margin-bottom: 100px">
     My name is Kirill!<br> 
-    I'm finiched from Hexlet Online Programming School and looking for career opportunities as junior Python developer.
 </p> 
 
 
 - Hexlet Profile: [https://ru.hexlet.io/u/liker](https://ru.hexlet.io/u/Liker)
-- Hexlet CV: https://cv.hexlet.io/resumes/1266
 
 <h2>Skills</h2>
 
